@@ -16,7 +16,7 @@ public class Arrays02{
     public static void main(String[]args){
         int a=5;
         changeVal(a);//actual values never pass in a method call. copy of that value passes. thats called passby value
-        System.out.println(a); //prints 5 here because 
+        System.out.println(a); //prints 5 here because of the above mentioned line
         int[] arr=new int[3];
         arr[0]=5;
         arr[1]=6;

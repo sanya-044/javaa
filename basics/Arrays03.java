@@ -1,4 +1,5 @@
 //   CONCEPT OF DEEP COPY ////
+// implementing deep copy using clone()
 import java.util.Scanner;
 public class Arrays03{
 

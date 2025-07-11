@@ -1,3 +1,5 @@
+    //CONCEPT OF SHALLOW COPY
+
 import java.util.Scanner;
 public class Arrays01{
 
